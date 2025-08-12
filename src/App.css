@@ -1,0 +1,25 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.navbar {
+  background-color: #003366 !important; 
+}
+
+.navbar .nav-link:hover {
+  color: #ffcc00 !important;
+}
+
+.btn-warning {
+  background-color: #ffcc00;
+  border-color: #ffcc00;
+}
+
+.btn-warning:hover {
+  background-color: #e6b800;
+  border-color: #e6b800;
+}
+
+.card {
+  border-width: 2px;
+}
