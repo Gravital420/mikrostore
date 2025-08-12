@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,4 +14,14 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # mikrostore
 Proyecto Final Frontend
->>>>>>> 8c0a918587357f42c32f577892fd4897650e3d01
+ 8c0a918587357f42c32f577892fd4897650e3d01
+
+
+INSTRUCCIONES
+clonar el repositorio:
+git clone https://github.com/Gravital420/mikrostore.git
+
+Luego seleccionar la carpeta mikrostore
+
+Y ejecutar:
+npm install
